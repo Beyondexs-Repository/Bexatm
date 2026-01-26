@@ -1,0 +1,50 @@
+[
+{
+  "title": "Manager Desk",
+  "description": "The Manager Desk allows managers to review, approve, or reject requests from their team members, including leave applications, on-duty requests, shift changes, timesheet approvals, and other HR-related actions."
+},
+  {
+    "heading": "Manager Desk",
+    "description": "A Manager Approval Screen is used by managers to review, approve, or reject requests made by their team members. This may include leave applications, on-duty requests, shift changes, timesheet approvals, and other HR-related actions.",
+    "backgroundImage": "/images/background.png"
+  },
+  {
+    "title": "Approval",
+    "subtitle": "Review and Manage Requests",
+    "description": "The Approval screen allows managers to review, approve, or reject various employee requests, including leave, overtime, expenses, and task completions.",
+    "image": "/images/Approval.png",
+    "href": "#approval",
+    "badge": "Essential",
+    "reverse": true,
+    "icon": [
+      "mdi:lock-open-outline",
+      "mdi:calendar-account",
+      "mdi:briefcase-check-outline",
+      "mdi:clock-plus-outline",
+      "mdi:calendar-check-outline",
+      "mdi:cash-multiple",
+      "mdi:cash-fast",
+      "mdi:account-group-outline"
+    ]
+  },
+  {
+    "title": "On-Site Activity",
+    "subtitle": "Capture Real-Time Events",
+    "description": "Spot Activity captures real-time events or actions that occur spontaneously. It helps in tracking immediate issues or tasks requiring urgent attention.",
+    "image": "/images/onsite.png",
+    "href": "#onsiteactivity",
+    "badge": "Field",
+    "reverse": false,
+    "icon": "mdi:map-marker"
+  },
+  {
+    "title": "Time Sheet",
+    "subtitle": "Monitor Daily Work Hours",
+    "description": "The Time Sheet module allows employees to record daily work hours, assigned tasks, and project contributions, enabling accurate payroll and productivity tracking.",
+    "image": "/images/TimeSheet.png",
+    "href": "#timesheet",
+    "badge": "Productivity",
+    "reverse": true,
+    "icon": "mdi:clock-time-eight"
+  }
+]

@@ -1,0 +1,91 @@
+[
+ {
+  "title": "Agile Project Management",
+  "description": "The Agile Project Management screen provides a vertical, hierarchical approval workflow, ensuring that requests—such as leave, attendance regularization, expense claims, or timesheet entries—are routed through the appropriate chain of command. Each management level reviews and processes requests sequentially based on predefined rules and role-based hierarchies."
+},
+  {
+    "title": "Project",
+    "subtitle": "Manage Project Phases and Team Workflow",
+    "description": [
+      "This section provides details about projects, including the list of milestones, their weightages, operational stages, activities, tasks, task details, and assigned team members. Milestones are organized by operational stages, stages are further divided into activities, and activities are broken down into tasks with specific details based on team member designations. Milestones, operational stages, activities, and tasks are all assigned weightages, and the total of these weightages must not exceed 100%."
+    ],
+    "image": "/images/project00.png",
+    "href": "#approval",
+    "badge": "Workflow",
+    "reverse": true,
+    "icon": "mdi:check-decagram"
+  },
+  {
+    "title": "Team Collaboration",
+    "subtitle": "Enhance Communication & Coordination",
+    "description": "Team allocation for a project means assigning the right employees to specific roles and tasks based on their skills, experience, availability and cost to ensure balanced workloads, effective resource utilization and successful project execution.",
+    "image": "/images/teamcollaboration.png",
+    "href": "#teamcollaboration",
+    "badge": "Collaboration",
+    "reverse": false,
+    "icon": "mdi:account-group"
+  },
+  {
+    "title": "Sprint",
+    "subtitle": "Track Progress and Outcome",
+    "description": [
+      "The manager assigns tasks to team members based on the project plan, schedules the start and due dates, allocates the responsible person, and tracks the actual completion date to ensure timely delivery."
+    ],
+    "image": "/images/sprint.png",
+    "href": "#taskmonitoring",
+    "badge": "Agile",
+    "reverse": true,
+    "icon": "mdi:chart-line"
+  },
+  {
+    "title": "Task",
+    "subtitle": "Manage Workflows Efficiently",
+    "description": [
+      "Handle self-assigned tasks, manager-assigned responsibilities, and sprint-based activities in one place. Plan start and due dates, allocate ownership, and monitor progress to ensure timely completion and team alignment."
+    ],
+    "image": "/images/task2.png",
+    "href": "#taskmonitoring",
+    "badge": "Productivity",
+    "reverse": false,
+    "icon": "mdi:clipboard-check-outline"
+  },
+  {
+    "title": "Project Enquiry",
+    "subtitle": "Capture Real-Time Events",
+    "description": [
+      "Project Enquiry provides detailed information about project tasks based on the project, milestone, operational stage, and associated activities."
+    ],
+    "image": "/images/projectenquiry.png",
+    "href": "#onsiteactivity",
+    "badge": "Insights",
+    "reverse": true,
+    "icon": "mdi:map-marker"
+  },
+  {
+    "title": "Project Status Report",
+    "subtitle": "Product Status Based on Project & Employee",
+    "description": [
+      "It provides a status report of the product based on the project and employee, within a specified date range (From Date to To Date)",
+      "Works within a specified date range (From Date – To Date).",
+      "Efforts – List of Tasks: Displays details of tasks taken up by an employee, including descriptions and time taken.",
+      "Efforts – List of Employee Tasks: Shows task completion information, including estimated effort vs. actual time spent.",
+      "Efforts – List of Projects: Displays projects assigned to an employee, including estimated hours and actual contributed hours (effort)."
+    ],
+    "image": "/images/projectstatus.png",
+    "href": "#projectstatus",
+    "badge": "Analytics",
+    "reverse": false,
+    "icon": "mdi:file-chart",
+    "isBullet": true
+  },
+  {
+    "title": "Escalation System",
+    "subtitle": "Resolve Issues with Defined Workflows",
+    "description": "An Escalation System provides a structured process for addressing critical project issues such as schedule time delays or increased budget. It ensures that unresolved problems are systematically reported to higher levels of management, enabling timely decision-making, resource reallocation, and corrective actions to keep the project on track.",
+    "image": "/images/escalation.png",
+    "href": "#escalationsystem",
+    "badge": "Governance",
+    "reverse": true,
+    "icon": "mdi:alert-decagram"
+  }
+]

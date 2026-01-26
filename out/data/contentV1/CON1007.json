@@ -1,0 +1,41 @@
+{
+    "CON100101": "Approval",
+    "CON100102": "Review and Manage Requests",
+    "CON100103": "The Approval screen allows managers to review, approve, or reject various employee requests, including leave, overtime, expenses, and task completions.",
+    "CON100104": "/images/Approval.png",
+    "CON100105": "Essential",
+    "CON100106": "mdi:account-card-details-outline",
+    "CON100107": "mdi:account-multiple-outline",
+    "CON100108": "mdi:briefcase-outline",
+    "CON100109": "mdi:clock-time-outline",
+    "CON100110": "mdi:information-outline",
+
+    "CON100111": "On-Site Activity",
+    "CON100112": "Capture Real-Time Events",
+    "CON100113": "Spot Activity captures real-time events or actions that occur spontaneously. It helps in tracking immediate issues or tasks requiring urgent attention.",
+    "CON100114": "/images/onsite.png",
+    "CON100115": "Field",
+    "CON100116": "mdi:map-marker",
+
+    "CON100117": "Time Sheet",
+    "CON100118": "Monitor Daily Work Hours",
+    "CON100119": "The Time Sheet module allows employees to record daily work hours, assigned tasks, and project contributions, enabling accurate payroll and productivity tracking.",
+    "CON100120": "/images/TimeSheet.png",
+    "CON100121": "Productivity",
+    "CON100122": "mdi:clock-time-eight",
+
+    "CON100123": "Manager Desk",
+    "CON100124": "A Manager Approval Screen is used by managers to review, approve, or reject requests made by their team members. This may include leave applications, on-duty requests, shift changes, timesheet approvals, and other HR-related actions.",
+    "CON100125": "/images/background.png",
+
+    "CON100126": "Manager Desk",
+    "CON100127": "The Manager Desk allows managers to review, approve, or reject requests from their team members, including leave applications, on-duty requests, shift changes, timesheet approvals, and other HR-related actions.",
+
+    "CON100128": "mdi:currency-inr",
+    "CON100129": "mdi:file-document-outline",
+    "CON100130": "mdi:account-group-outline"
+
+
+
+
+}
